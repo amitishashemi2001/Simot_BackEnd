@@ -1,0 +1,34 @@
+# Environment
+.venv/
+venv/
+env/
+.env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+
+# Database
+db.sqlite3
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# Media & Static
+media/
+staticfiles/
+static/
+
+# Local settings
+local_settings.py
